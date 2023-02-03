@@ -25,30 +25,14 @@
  
  
 ---
-
-
-  <p align="center"> 
-                ▼△▼△ 𝙴𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 ▼△▼△
-   
-   
-   
-```              SESSION_ID                ```
-   
-```              OWNER_NAME                ```
-   
-```              OWNER_NUMBER              ```
-
-```              PACK_NAME                 ```   
-   
-```              STICKER_AUTHOR_NAME       ``` 
-
-```              ANTICALL                  ```    
- </p>
- 
- 
 # Deployment Methods
  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
+---
+## Click Here To Deploy
 
+<a href="https://queen-md-deploy.vercel.app/"><img src="https://www.clipartmax.com/png/full/135-1353963_click-here-button-free-click-here-button-png.png" alt="pngwing-com" width="350" border="0"></a>
+
+---
 
 **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
 
@@ -63,17 +47,7 @@
 
 <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
 -- 
- 
-###  ***Deploy on Koyeb*** 
- 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://darkwinzo2240.hopp.to/Queen)
---
- 
-###  ***Deploy on Railway***
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6sO_4x?referralCode=RbgPhK)
---
-  
 ###  ***Deploy on replit*** 
  
 <a href="https://replit.com/@DarkWinzo/Queen-MD?v=1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="250"></a> 
